@@ -20,3 +20,5 @@ This project is a web application that leverages the advanced Gemini language mo
 4. google-generativeai
 
 ### Screenshots:
+
+![Screenshot (281)](https://github.com/user-attachments/assets/c65de773-dbcc-4842-969f-5db3295e68a9)
