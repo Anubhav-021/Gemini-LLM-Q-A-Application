@@ -3,20 +3,20 @@ This project is a web application that leverages the advanced Gemini language mo
 
 ### Features:
 
-User-Friendly Interface: A clean and attractive UI with custom styling for a seamless user experience.
+1. User-Friendly Interface: A clean and attractive UI with custom styling for a seamless user experience.
 
-Real-Time Responses: Get instant answers to your questions from the Gemini language model.
+2. Real-Time Responses: Get instant answers to your questions from the Gemini language model.
 
-Environment Configuration: Securely load API keys using dotenv.
+3. Environment Configuration: Securely load API keys using dotenv.
 
 ### Dependencies:
 
-Python 3.x
+1. Python 3.x
 
-Streamlit
+2. Streamlit
 
-python-dotenv
+3. python-dotenv
 
-google-generativeai
+4. google-generativeai
 
 ### Screenshots:
