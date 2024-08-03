@@ -9,11 +9,14 @@ Real-Time Responses: Get instant answers to your questions from the Gemini langu
 
 Environment Configuration: Securely load API keys using dotenv.
 
-###Dependencies:
+### Dependencies:
 
 Python 3.x
+
 Streamlit
+
 python-dotenv
+
 google-generativeai
 
-###Screenshots:
+### Screenshots:
