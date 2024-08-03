@@ -22,3 +22,5 @@ This project is a web application that leverages the advanced Gemini language mo
 ### Screenshots:
 
 ![Screenshot (281)](https://github.com/user-attachments/assets/c65de773-dbcc-4842-969f-5db3295e68a9)
+
+![Screenshot (282)](https://github.com/user-attachments/assets/3b6d6c7f-98c2-41ed-adb4-0e2828c2c3ec)
